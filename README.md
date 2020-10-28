@@ -9,4 +9,4 @@ Don't PANIC, follow your nation and WHO guidelines. Stay safe and Healthy. Join 
 
 Feel free to drop your feedback below.Last update: 10/27/2020. Updates to the data table.
 
-## Recommended: Download the kenrel. Run locally.
+## Recommended: Download the kernel. Run locally. Thanks :)
