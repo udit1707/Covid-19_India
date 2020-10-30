@@ -7,7 +7,7 @@ Covid-19 Data Sources:
 - Learn more from World Health Organization
 - Don't PANIC, follow your nation and WHO guidelines. Stay safe and Healthy. Join the cause!
 
-Last update: 10/27/2020. Updates to the data table.
+Last update: 10/30/2020. Updates to the data table.
 
 
 ## Recommended:
